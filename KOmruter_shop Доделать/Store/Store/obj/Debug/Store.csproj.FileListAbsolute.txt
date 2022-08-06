@@ -1,0 +1,41 @@
+E:\Kursach\KOmruter_shop\Store\Store\bin\Debug\Sore_DB.mdf
+E:\Kursach\KOmruter_shop\Store\Store\bin\Debug\Sore_DB_log.ldf
+E:\Kursach\KOmruter_shop\Store\Store\bin\Debug\Store.exe.config
+E:\Kursach\KOmruter_shop\Store\Store\bin\Debug\Store.exe
+E:\Kursach\KOmruter_shop\Store\Store\bin\Debug\Store.pdb
+E:\Kursach\KOmruter_shop\Store\Store\bin\Debug\System.Data.SqlClient.dll
+E:\Kursach\KOmruter_shop\Store\Store\bin\Debug\System.Data.SqlClient.xml
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csprojAssemblyReference.cache
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.Properties.Resources.resources
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csproj.CopyComplete
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.exe
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.pdb
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.Form1.resources
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.Staff.resources
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.regis.resources
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.User.resources
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.kat.resources
+E:\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.userkab.resources
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\bin\Debug\Sore_DB.mdf
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\bin\Debug\Sore_DB_log.ldf
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\bin\Debug\Store.exe.config
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\bin\Debug\Store.exe
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\bin\Debug\Store.pdb
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\bin\Debug\System.Data.SqlClient.dll
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\bin\Debug\System.Data.SqlClient.xml
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.Form1.resources
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.regis.resources
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.kat.resources
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.Properties.Resources.resources
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.Staff.resources
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.User.resources
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.userkab.resources
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.csproj.CopyComplete
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.exe
+D:\Учеба\3 курс\Kursach\KOmruter_shop\Store\Store\obj\Debug\Store.pdb
